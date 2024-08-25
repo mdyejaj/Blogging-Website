@@ -1,0 +1,11 @@
+body{
+    margin: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.nav{
+    padding: 0 2rem;
+    height: 0rem;
+    min-height: 10vh;
+    background: #0fff;
+}
